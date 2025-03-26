@@ -10,14 +10,10 @@ allowing for dynamic and adaptive performance forecasts.
 
 Key Players:
 The predictions are built around key players such as:
-Sachin Tanwar
 Pawan Sehrawat
 Mohammadreza Shadloui Chiyaneh
-Bharat
-Fazel Atrachali
-Sunil Kumar
 Maninder Singh
-and others.
+
 
 
 
